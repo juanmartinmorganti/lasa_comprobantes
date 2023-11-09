@@ -1,0 +1,499 @@
+table, th, td{
+    border: 1px, solid;
+    padding: 8px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+table{
+    border-spacing: 5px;
+    width: 100%;
+    font-family: Arial;
+
+}
+
+th{
+    background-color: black;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+
+table tr:nth-child(even){
+    background-color: #effcfc;
+}
+table tr:nth-child(odd) {
+    background-color: #d6f7f7;
+}
+
+caption{
+    font-size: 20px;
+    font-family: monospace;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+.enero, table, th, td{
+    border: 1px, solid;
+    padding: 8px;
+    margin-bottom: 20px;
+}
+
+.enero table{
+    border-spacing: 5px;
+    width: 100%;
+    font-family: Arial;
+
+}
+
+.enero th{
+    background-color: black;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+
+.enero table tr:nth-child(even){
+    background-color: #f2f7fb;
+}
+.enero table tr:nth-child(odd) {
+    background-color: #e7f0f8;
+}
+
+.enero caption{
+    font-size: 20px;
+    font-family: monospace;
+    text-align: center;
+}
+
+
+
+
+
+.febrero, table, th, td{
+    border: 1px, solid;
+    padding: 8px;
+    margin-bottom: 20px;
+}
+
+.febrero table{
+    border-spacing: 5px;
+    width: 100%;
+    font-family: Arial;
+
+}
+
+.febrero th{
+    background-color: black;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+
+.febrero table tr:nth-child(even){
+    background-color: #f4fbf2;
+}
+.febrero table tr:nth-child(odd) {
+    background-color:#e4f8e0;
+}
+
+.febrero caption{
+    font-size: 20px;
+    font-family: monospace;
+    text-align: center;
+}
+
+
+
+
+.marzo, table, th, td{
+    border: 1px, solid;
+    padding: 8px;
+    margin-bottom: 20px;
+}
+
+.marzo table{
+    border-spacing: 5px;
+    width: 100%;
+    font-family: Arial;
+
+}
+
+.marzo th{
+    background-color: black;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+
+.marzo table tr:nth-child(even){
+    background-color: #effcfc;
+}
+.marzo table tr:nth-child(odd) {
+    background-color: #d7f4f6;
+}
+
+.marzo caption{
+    font-size: 20px;
+    font-family: monospace;
+    text-align: center;
+}
+
+
+
+
+.abril, table, th, td{
+    border: 1px, solid;
+    padding: 8px;
+    margin-bottom: 20px;
+}
+
+.abril table{
+    border-spacing: 5px;
+    width: 100%;
+    font-family: Arial;
+
+}
+
+.abril th{
+    background-color: black;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+
+.abril table tr:nth-child(even){
+    background-color: rgb(188, 219, 185);
+}
+.abril table tr:nth-child(odd) {
+    background-color: rgb(214, 236, 222);
+}
+
+.abril caption{
+    font-size: 20px;
+    font-family: monospace;
+    text-align: center;
+}
+
+
+
+.mayo, table, th, td{
+    border: 1px, solid;
+    padding: 8px;
+    margin-bottom: 20px;
+}
+
+.mayo table{
+    border-spacing: 5px;
+    width: 100%;
+    font-family: Arial;
+
+}
+
+.mayo th{
+    background-color: black;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+
+.mayo table tr:nth-child(even){
+    background-color: rgb(211, 221, 228);
+}
+.mayo table tr:nth-child(odd) {
+    background-color: rgb(231, 237, 241);
+}
+
+.mayo caption{
+    font-size: 20px;
+    font-family: monospace;
+    text-align: center;
+}
+
+
+
+
+.junio, table, th, td{
+    border: 1px, solid;
+    padding: 8px;
+    margin-bottom: 20px;
+}
+
+.junio table{
+    border-spacing: 5px;
+    width: 100%;
+    font-family: Arial;
+
+}
+
+.junio th{
+    background-color: black;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+
+.junio table tr:nth-child(even){
+    background-color: #fcf7fc;
+}
+.junio table tr:nth-child(odd) {
+    background-color: #faedfa;
+}
+
+.junio caption{
+    font-size: 20px;
+    font-family: monospace;
+    text-align: center;
+}
+
+
+
+
+
+.agosto, table, th, td{
+    border: 1px, solid;
+    padding: 8px;
+    margin-bottom: 20px;
+   
+}
+
+.agosto table{
+    border-spacing: 5px;
+    width: 100%;
+    font-family: Arial;
+
+}
+
+.agosto th{
+    background-color: black;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+
+.agosto table tr:nth-child(even){
+    background-color: #fff0f0;
+}
+.agosto table tr:nth-child(odd) {
+    background-color: #ffdede;
+}
+
+.agosto caption{
+    font-size: 20px;
+    font-family: monospace;
+    text-align: center;
+   
+}
+
+
+
+
+.septiembre, table, th, td{
+    border: 1px, solid;
+    padding: 8px;
+    margin-bottom: 20px;
+    
+}
+
+.septiembre table{
+    border-spacing: 5px;
+    width: 100%;
+    font-family: Arial;
+
+}
+
+.septiembre th{
+    background-color: rgb(32, 5, 5);
+    color: rgb(189, 212, 208);
+    font-size: 30px;
+    text-align: center;
+}
+
+.septiembre table tr:nth-child(even){
+    background-color: #eefff6;
+}
+.septiembre table tr:nth-child(odd) {
+    background-color: #d6ffed;
+}
+
+.septiembre caption{
+    font-size: 20px;
+    font-family: monospace;
+    text-align: center;
+   
+}
+
+
+
+
+
+
+.octubre, table, th, td{
+    border: 1px, solid;
+    padding: 8px;
+    margin-bottom: 20px;
+    
+}
+
+.octubre table{
+    border-spacing: 5px;
+    width: 100%;
+    font-family: Arial;
+
+}
+
+.octubre th{
+    background-color: rgb(32, 5, 5);
+    color: rgb(189, 212, 208);
+    font-size: 30px;
+    text-align: center;
+}
+
+.octubre table tr:nth-child(even){
+    background-color: #ffffe5;
+}
+.octubre table tr:nth-child(odd) {
+    background-color: #feffc6;
+}
+
+.octubre caption{
+    font-size: 20px;
+    font-family: monospace;
+    
+}
+
+
+
+
+
+.noviembre, table, th, td{
+    border: 1px, solid;
+    padding: 8px;
+    margin-bottom: 20px;
+    
+}
+
+.noviembre table{
+    border-spacing: 5px;
+    width: 100%;
+    font-family: Arial;
+
+}
+
+.noviembre th{
+    background-color: rgb(32, 5, 5);
+    color: rgb(189, 212, 208);
+    font-size: 30px;
+    text-align: center;
+}
+
+.noviembre table tr:nth-child(even){
+    background-color:#f6f5fd;
+    
+}
+.noviembre table tr:nth-child(odd) {
+    background-color: #efecfb;
+}
+
+.noviembre caption{
+    font-size: 20px;
+    font-family: monospace;
+    
+}
+
+.noviembre tr:hover {
+    background-color: yellow;
+}
+
+
+
+.diciembre, table, th, td{
+    border: 1px, solid;
+    padding: 8px;
+    margin-bottom: 20px;
+    
+}
+
+.diciembre table{
+    border-spacing: 5px;
+    width: 100%;
+    font-family: Arial;
+
+}
+
+.diciembre th{
+    background-color: rgb(32, 5, 5);
+    color: rgb(189, 212, 208);
+    font-size: 30px;
+    text-align: center;
+}
+
+.diciembre table tr:nth-child(even){
+    background-color:#fef7ec;
+    
+}
+.diciembre table tr:nth-child(odd) {
+    background-color: #dbd2bf;
+}
+
+.diciembre caption{
+    font-size: 20px;
+    font-family: monospace;
+    
+}
+
+.diciembre tr:hover {
+    background-color: yellow;
+}
+
+.sinComprobante{
+    font-family: borlow condense;
+    color: brown;
+    text-align: center;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(41, 38, 38);
+ }
+ 
+ li{
+     float: left;
+     border-right: 1px solid rgb(137, 211, 207);
+ }
+ 
+ li:last-child{
+     border-right: none;
+     border-left: 1px solid rgb(137, 211, 207);
+ }
+ 
+ li a {
+     display: block;
+     color: white;
+     text-align: center;
+     padding: 10px 25px;
+     text-decoration: none;
+ 
+ }
+ 
+ .active{
+     background-color: coral;
+ }
+ 
+ li a:hover:not(.active){
+     background-color: rgb(236, 125, 60);
+ 
+ }
+
+ tr :hover {
+    background-color: rgb(27, 227, 227);
+ }
