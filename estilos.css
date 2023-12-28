@@ -1,3 +1,43 @@
+#section1{
+    min-height: 600px;
+    background-color: red;
+}
+
+.caja1 {
+    height: 550px;
+    background-color: blue; 
+    width: 250px;
+    float: left;
+    margin: 20px;
+}
+.caja2 {
+    height: 550px;
+    background-color: blue; 
+    width: 250px;
+    float: left;
+    margin: 20px;
+}
+.caja3 {
+    height: 550px;
+    background-color: blue; 
+    width: 250px;
+    float: left;
+    margin: 20px;
+}
+.caja4 {
+    height: 550px;
+    background-color: blue; 
+    width: 250px;
+    float: left;
+    margin: 20px;
+}
+
+h1 {
+    text-align:center;
+    
+}
+
+
 table, th, td{
     border: 1px, solid;
     padding: 8px;
