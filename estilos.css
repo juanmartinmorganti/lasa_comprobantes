@@ -1,3 +1,25 @@
+body,header, section, table {
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#logo{
+    width: 150px;
+    height: 127px;
+    float: left;
+    background-image: url(img/logo.png);
+    background-size:cover;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+    padding: 10px;
+    margin: 10px;
+}
+
+
+
+
+
 #section1{
     min-height: 600px;
     background-color: red;
@@ -33,7 +55,7 @@
 }
 
 h1 {
-    text-align:center;
+    text-align:right;
     
 }
 
