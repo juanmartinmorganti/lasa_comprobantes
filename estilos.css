@@ -22,40 +22,49 @@ body,header, section, table {
 
 #section1{
     min-height: 600px;
-    background-color: red;
+    background-color: rgb(12, 34, 122);
 }
 
 .caja1 {
     height: 550px;
-    background-color: blue; 
+    background-image: url(img/src/bolsas.png);
     width: 250px;
     float: left;
     margin: 20px;
+    border-radius: 30px;
+}
+
+.bolsas{
+    text-align: center;
+
 }
 .caja2 {
     height: 550px;
-    background-color: blue; 
+    background-image: url(img/src/carton.png);
     width: 250px;
     float: left;
     margin: 20px;
+    border-radius: 30px;
 }
 .caja3 {
     height: 550px;
-    background-color: blue; 
+    background-image: url(img/src/papel.png); 
     width: 250px;
     float: left;
     margin: 20px;
+    border-radius: 30px;
 }
 .caja4 {
     height: 550px;
-    background-color: blue; 
+    background-image: url(img/src/Sin\ título-1.png); 
     width: 250px;
     float: left;
     margin: 20px;
+    border-radius: 30px;
 }
 
 h1 {
-    text-align:right;
+    text-align:center;
     
 }
 
